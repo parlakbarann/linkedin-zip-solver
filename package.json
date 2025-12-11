@@ -1,0 +1,24 @@
+{
+  "name": "linkedin-zip-solver",
+  "version": "1.1.1",
+  "description": "LinkedIn Zip oyununu otomatik olarak çözen Chrome eklentisi",
+  "scripts": {
+    "zip": "VERSION=${npm_package_version:-1.0.0} && zip -r linkedin-zip-solver-v$VERSION.zip . -x '*.git*' '*.DS_Store' 'node_modules/*' '*.zip'",
+    "lint": "echo 'Linting...' && echo 'No linter configured yet'",
+    "validate": "echo 'Validating manifest...' && cat manifest.json | python3 -m json.tool > /dev/null && echo 'Manifest is valid!'"
+  },
+  "keywords": [
+    "linkedin",
+    "zip",
+    "game",
+    "solver",
+    "chrome-extension",
+    "automation"
+  ],
+  "author": "zipmaster",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/linkedin-zip-solver"
+  }
+}

@@ -1,6 +1,25 @@
-# 🎮 LinkedIn Zip Solver - Chrome Extension
+<div align="center">
+  <img src="icons/icon128.png" alt="LinkedIn Zip Solver Logo" width="120" height="120">
+  
+  # 🎮 LinkedIn Zip Solver
+  
+  <p align="center">
+    <strong>A Manifest V3 compatible Chrome/Chromium extension that automatically solves LinkedIn's Zip game.</strong>
+    <br>
+    <a href="https://github.com/parlakbarann/linkedin-zip-solver/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/parlakbarann/linkedin-zip-solver/issues">Request Feature</a>
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/version-1.1.1-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/manifest-v3-orange.svg" alt="Manifest V3">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+    <img src="https://img.shields.io/badge/chrome-extension-yellow.svg" alt="Chrome Extension">
+  </p>
+</div>
 
-Chrome extension that automatically solves the LinkedIn Zip game.
+---
 
 ## ⚠️ Warning
 

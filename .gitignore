@@ -1,0 +1,30 @@
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Chrome Extension
+*.crx
+*.pem
+*.zip
+
+# Logs
+*.log
+
+# Temporary files
+temp_*
+tmp_*
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
